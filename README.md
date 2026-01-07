@@ -1,11 +1,12 @@
 ![SapurataCreative](assets/github-header-image.png)
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=WahyuSapurata.WahyuSapurata&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SyahrinNanda.SyahrinNanda&" />
 </div>
 
 ##### Skills
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
@@ -27,27 +28,27 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 ##### Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wahyu_m018) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wahyu.m.715971/?locale=id_ID) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyuhidayat-1a7917264/) [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sapuratacreative.web.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wahyu_m018)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wahyu.m.715971/?locale=id_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyuhidayat-1a7917264/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sapuratacreative.web.app/)
 
 ##### My Github Stats
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=WahyuSapurata&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=WahyuSapurata&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=SyahrinNanda&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=SyahrinNanda&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WahyuSapurata/WahyuSapurata/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WahyuSapurata/WahyuSapurata/output/pacman.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WahyuSapurata/WahyuSapurata/output/pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyahrinNanda/SyahrinNanda/output/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyahrinNanda/SyahrinNanda/output/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SyahrinNanda/SyahrinNanda/output/pacman.svg">
 </picture>
-
 
 ###
 
-<img src="https://raw.githubusercontent.com/WahyuSapurata/WahyuSapurata/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SyahrinNanda/SyahrinNanda/output/snake.svg" alt="Snake animation" />
 
 ###
