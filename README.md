@@ -1,4 +1,4 @@
-![SapurataCreative](assets/github-header-image.png)
+![Syahrin_Ajaa](assets/github-header-image.png)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SyahrinNanda.SyahrinNanda&" />
