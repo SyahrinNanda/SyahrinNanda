@@ -49,16 +49,16 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/wahyu_m018">
+  <a href="#">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/wahyu.m.715971/?locale=id_ID">
+  <a href="#">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/wahyuhidayat-1a7917264/">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://sapuratacreative.web.app/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
